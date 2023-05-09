@@ -1,6 +1,6 @@
 # Basic Machine Learning Workshop
 
-* 🚀ิ Final Goal: For paper replicating 👉 [Machine learning analysis of catalytic $CO_2$ methanation](https://www.sciencedirect.com/science/article/abs/pii/S0360319922059134)
+* 🚀ิ Final Goal: For paper replicating 👉 [Machine learning analysis of catalytic CO2 methanation](https://www.sciencedirect.com/science/article/abs/pii/S0360319922059134)
 
 * 🧪 Final Colab Notebook 👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i_IYYPQVIbH7BINwxyrWxL_MZyi-uFzN?usp=sharing) (🛠 In progress)
 
