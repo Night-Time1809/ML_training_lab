@@ -3,6 +3,7 @@
 * 🚀ิ Final Goal: For paper replicating 👉 [Machine learning analysis of catalytic CO2 methanation](https://www.sciencedirect.com/science/article/abs/pii/S0360319922059134)
 
 * 🧪 Final Colab Notebook 👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i_IYYPQVIbH7BINwxyrWxL_MZyi-uFzN?usp=sharing) (🛠 In progress)
+* 🔧 Helper Function Notebook 👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1--jv7qh4sIeOoOmC0qO5JLYdqeF_k8uR?usp=sharing)
 
 ## Materials/outline
 
